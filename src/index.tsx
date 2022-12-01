@@ -1,8 +1,7 @@
 import React, { useState } from "react";
 import ReactDOM from "react-dom";
-import "./styles.css";
-
-import MapChart from "./MapChart";
+import MapChart from "./map/MapChart";
+import './index.css';
 
 function App() {
   return (
